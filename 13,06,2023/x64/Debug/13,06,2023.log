@@ -1,0 +1,8 @@
+﻿  13,06,2023.cpp
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\13,06,2023\13,06,2023.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\13,06,2023\13,06,2023.cpp(35,16): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\13,06,2023\13,06,2023.cpp(46,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\13,06,2023\13,06,2023.cpp(47,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\13,06,2023\13,06,2023.cpp(49,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\13,06,2023\13,06,2023.cpp(50,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  13,06,2023.vcxproj -> C:\Users\denis\OneDrive\Робочий стіл\ITstepLviv\13,06,2023\x64\Debug\13,06,2023.exe
